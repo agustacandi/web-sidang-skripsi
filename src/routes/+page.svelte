@@ -8,11 +8,11 @@
 <div class="lg:w-150 w-full h-screen mx-auto relative flex flex-col justify-center items-center lg:overflow-visible overflow-hidden">
 	<img class="absolute -top-75 -left-30 -rotate-30" src="/black-paper.png" alt="Black Paper">
 	<img class="absolute top-10 lg:right-0 right-0 lg:w-50 w-35" src="/paper-amazing.png" alt="Paper Amazing">
-	<img class="absolute bottom-0 left-0 lg:w-80 w-60" src="/castle-cut-out.webp" alt="Castle Cut-Out">
-	<img class="absolute -bottom-5 lg:right-0 right-0 lg:w-80 w-60" src="/museum-cut-out.png" alt="Museum Cut-Out">
+	<img class="absolute -bottom-25 lg:left-0 -left-20 lg:w-80 w-80" src="/museum-cut-out.png" alt="Museum Cut-Out">
+	<img class="absolute -bottom-15 lg:right-0 right-0 lg:w-80 w-70" src="/castle-cut-out.webp" alt="Castle Cut-Out">
 	<img class="absolute top-35 lg:-right-20 -right-30 lg:w-50 w-40" src="/dots.webp" alt="Dots">
 	<img class="absolute lg:bottom-50 bottom-35 lg:-left-40 -left-30 lg:w-50 w-40" src="/dots.webp" alt="Dots">
-	<div class="text-center mb-30 lg:mb-40 lg:mx-0 mx-10">
+	<div class="text-center mb-30 lg:mb-40 lg:mx-0 mx-10 mt-25">
 		<h1 class="dynalight-regular text-6xl">Congratulations</h1>
 		<h2 class="dm-serif-text-regular text-4xl mb-5">Unofficially</h2>
 		<div class="bg-white w-full h-80 p-8 mb-5 shadow-lg">
