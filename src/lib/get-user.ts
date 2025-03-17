@@ -15,6 +15,10 @@ const users: Record<string, User> = {
 	"nnnaosudqoiwjdpqoj": {
 		name: "Firdiyatus Sholihah",
 		image: "/user/nnnaosudqoiwjdpqoj.jpeg"
+	},
+	"yiwuyerewiuryweri": {
+		name: "Elisa Febrian Sholeha",
+		image: "/user/yiwuyerewiuryweri.jpeg"
 	}
 }
 
