@@ -47,6 +47,10 @@ const users: Record<string, User> = {
   "eqpowqpowdnmzdnajhsdaskdj": {
     name: "Eka Putri Yuliana",
     image: "/user/eqpowqpowdnmzdnajhsdaskdj.jpeg"
+  },
+  "uewyroqmasnasdasdkmsj": {
+    name: "Angga Raksa Prabaswara Putra",
+    image: "/user/uewyroqmasnasdasdkmsj.png"
   }
 }
 
