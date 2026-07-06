@@ -6,7 +6,7 @@ interface User {
 const users: Record<string, User> = {
   "alksdjlkasjdlkajskldjaksljd": {
     name: "Riski Rosalinda",
-    image: "/user/alksdjlkasjdlkajskldjaksljd.jpeg"
+    image: "/user/alksdjlkasjdlkajskldjaksljd.png"
   }
 }
 
