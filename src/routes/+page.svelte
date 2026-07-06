@@ -37,7 +37,7 @@
 		<div class="bg-white w-full h-80 p-8 mb-5 shadow-lg">
 			<img class="w-full h-60 object-cover" src={user?.image} alt="{user?.name} Image" />
 		</div>
-		<h3 class="text-2xl font-black">{user?.name}, S.Tr.Kom</h3>
+		<h3 class="text-2xl font-black">{user?.name}, S.S</h3>
 		<p class="mb-5">Semangat revisian, perjalanan masih panjang!</p>
 		<p class="font-mono">From: Candi Agusta</p>
 	</div>
